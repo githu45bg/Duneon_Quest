@@ -1,0 +1,1 @@
+public record SavedGame(int levelIndex, Dungeon dungeon, int traps, int spawns, int events) { }
